@@ -1,7 +1,4 @@
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Lesson Day-2 is all about the terraform providers
 # Q1: Providers are the plugins that allows terraformt to intercat with the aws, azure,gcp
 
